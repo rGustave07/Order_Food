@@ -8,6 +8,3 @@
 
 
 <img src="https://raw.githubusercontent.com/rGustave07/Order_Food/Order_Food/hooks/src/assets/images/Capture.PNG" width="900" height="600">
-
-
-View this in action here: https://rgustave07.github.io/Order_Food/
