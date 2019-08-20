@@ -1,9 +1,9 @@
 # Order_Food
 
 
-<h1>Build-a-Burger</h1>
+<h3>Build-a-Burger</h3>
 
-<h2>A burger ordering app!</h2> 
+<p>A burger ordering app!</p> 
 <p>Simply build the burger and hit order! This app uses React and React hooks, Redux, and Firebase for the backend.</p>
 
 
